@@ -6,7 +6,7 @@ The tutorial uses representative methods to demonstrate how a shared analytical 
 
 ## Materials
 
-- Slides: see [`slides/`](slides/)
+- Slides: see [slides/](/slides/)
 - Reading list: see [`reading-list.md`](reading-list.md)
 - Supplementary demo materials: in preparation
 
